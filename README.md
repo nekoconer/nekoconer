@@ -1,5 +1,7 @@
-## Hi there 👋
+## YEP, please don't say "lazy".
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=14&pause=999&color=D90E2C&background=76BD5300&width=500&height=100&lines=Only+upon+forming+a+Golden+Core+does+one+truly+belong+to+THE+ranks.;%E4%BF%AE%E4%B8%8D%E6%88%90%E9%87%91%E4%B8%B9%EF%BC%8C%E6%80%8E%E5%85%A5%E8%BF%99%E4%B8%80%E9%97%A8;%E3%81%8C%E3%83%AB%E3%82%AF%E3%83%A9%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B)](https://git.io/typing-svg)
 
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=nekoconer)
 <!--
 **nekoconer/nekoconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
